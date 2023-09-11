@@ -1,0 +1,43 @@
+Missing Journals:
+nature reviews physics
+knowledge-based systems
+arxiv:2111.05641 [cs, math]
+arxiv:2110.15832 [physics]
+cluster computing
+numerische mathematik
+acm computing surveys (csur)
+journal of thermal science and engineering applications
+information
+journal of the operations research society of china
+neural networks
+multiscale modeling \& simulation
+arxiv:2202.07926 [physics]
+pramana
+arxiv preprint arxiv:2111.03794
+advances in neural information processing systems
+annals of data science
+the annals of statistics
+nature machine intelligence
+arxiv:2111.02801 [physics]
+frontiers in astronomy and space sciences
+journal of membrane computing
+neurocomputing
+frontiers in big data
+journal of computer and system sciences
+zeitschrift für angewandte mathematik und physik
+iop conference series: materials science and engineering
+siam journal on scientific and statistical computing
+guide books
+arxiv:2201.05624 [physics]
+arxiv:2010.15959 [cs, math, stat]
+doctoral dissertation, harvard university
+proceedings of the national academy of sciences
+wireless personal communications
+energies
+ussr computational mathematics and mathematical physics
+chaos: an interdisciplinary journal of nonlinear science
+arxiv preprint arxiv:2010.02727
+mathematical problems in engineering
+journal of geophysical research: oceans
+arxiv:2109.09444 [cs, math, stat]
+computers \& fluids

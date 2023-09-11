@@ -3,6 +3,16 @@ import json
 import re
 import argparse
 
+def extract_journal_name(line):
+    if re.search('".*"', line) is not None:
+        journal_str = re.search('".*"', line).group(0)
+    elif re.search('{.*}', line) is not None:
+        journal_str = re.search('{.*}', line).group(0)
+    else:
+        return None
+    journal_name = journal_str[1:-1].replace('{','').replace('}','').lower()
+    return journal_name
+
 def abbreviate(line, journal_to_abbr):
     if re.search('".*"', line) is not None:
         journal_name_template = '"{}"'
@@ -19,17 +29,24 @@ def abbreviate(line, journal_to_abbr):
 
     return line.replace(journal_str, journal_name)
 
-
-
-
 def main(journal_to_abbr):
+    missing_journals = set()
     for line in sys.stdin:
         line_strip = line.strip()
         if line_strip.startswith('journal'):
+            journal_name = extract_journal_name(line)
+            if journal_name and journal_name not in journal_to_abbr:
+                missing_journals.add(journal_name)
             new_line = abbreviate(line, journal_to_abbr)
             print(new_line.rstrip())
         else:
             print(line.rstrip())
+
+    # At the end, write missing journals to a txt file
+    with open("data/missing_journals.txt", "w") as outfile:
+        outfile.write("Missing Journals:\n")
+        for journal in missing_journals:
+            outfile.write(journal + "\n")
             
 
 if __name__ == '__main__':
