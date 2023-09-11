@@ -53,7 +53,7 @@ def abbreviate(line, journal_to_abbr):
     journal_name = journal_name_template.format(journal_name)
 
     return line.replace(journal_str, journal_name)
-
+# This code valid for journals only and has been commented for the love of god.
 # def main(journal_to_abbr):
 #     missing_journals = set()
 #     for line in sys.stdin:

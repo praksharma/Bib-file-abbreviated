@@ -1,0 +1,93 @@
+Missing Fields:
+Annals of the New York Academy of Sciences
+Advances in neural information processing systems
+American Society of Mechanical Engineers Digital Collection
+arXiv
+CIRP Journal of Manufacturing Science and Technology
+Lulu. com
+Doctoral Dissertation, Harvard University
+Neural Networks
+Journal of Heat Transfer
+arXiv preprint arXiv:2010.02727
+Mathematics of Computation
+Optics Express
+Academic Press Professional, Inc.
+arXiv:2202.07926 [physics]
+The MIT Press
+Science Advances
+International Journal of Heat and Fluid Flow
+arXiv preprint arXiv:2111.03794
+NVIDIA Corporation
+Physics of Fluids
+Springer
+IEEE Access
+Springer Science \& Business Media
+Journal of Fluid Mechanics
+Journal of the Operations Research Society of China
+Nonlinear Dynamics
+International Journal of Heat and Mass Transfer
+Information
+Neurocomputing
+Journal of Geophysical Research: Oceans
+Energies
+arXiv:2010.15959 [cs, math, stat]
+Nature Machine Intelligence
+Neural Computation
+Proceedings of the National Academy of Sciences
+Knowledge-Based Systems
+Journal of Computational Physics
+Numerische Mathematik
+Journal of Membrane Computing
+Computer Methods in Applied Mechanics and Engineering
+Computer-Aided Civil and Infrastructure Engineering
+SIAM Journal on Scientific and Statistical Computing
+IEEE Signal Processing Magazine
+Journal of Thermal Science and Engineering Applications
+Multiscale Modeling \& Simulation
+PMLR
+Socio-Economic Planning Sciences
+Association for Computing Machinery
+Springer Netherlands
+Mathematical Problems in Engineering
+Archives of Computational Methods in Engineering
+Annals of Data Science
+Building and Environment
+ACM Transactions on Modeling and Computer Simulation
+ACM Computing Surveys (CSUR)
+Apress
+Journal of Computer and System Sciences
+arXiv:2109.09444 [cs, math, stat]
+Zeitschrift für angewandte Mathematik und Physik
+arXiv:2111.02801 [physics]
+Routledge
+arXiv:2111.05641 [cs, math]
+arXiv:2201.05624 [physics]
+Frontiers in Astronomy and Space Sciences
+The Annals of Statistics
+Journal of the ACM
+Frontiers in Big Data
+Quality and Reliability Engineering International
+SIAM Review
+Elsevier
+Applied Mathematics and Computation
+Cluster Computing
+Guide books
+Cambridge University Press
+WIREs Data Mining and Knowledge Discovery
+Wireless Personal Communications
+Journal of Mathematical Imaging and Vision
+SIAM Journal on Scientific Computing
+Communications in Computational Physics
+Springer International Publishing
+Signal Processing
+Acta Mechanica Sinica
+Nature Reviews Physics
+IEEE Transactions on Neural Networks
+Chaos: An Interdisciplinary Journal of Nonlinear Science
+IOP Conference Series: Materials Science and Engineering
+Curran Associates, Inc.
+Computers \& Fluids
+arXiv:2110.15832 [physics]
+USSR Computational Mathematics and Mathematical Physics
+Pramana
+SIAM Journal on Matrix Analysis and Applications
