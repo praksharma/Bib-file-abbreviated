@@ -1,7 +1,9 @@
 # Bib file from full Journal name to abbreviated names
 So, I have added functions to store the name of missing journals to `data/missing_journals.txt`. Later you can find them online add them to `journals.json`.
 
-[UPDATE] So, now we can not only search missing journals but also missing books, conference proceedings, book publisher etc. These lists are stored in `data/missing_fields.txt`.
+**[UPDATE]: 11 Sep 2023**
+
+So, now we can not only search missing journals but also missing books, conference proceedings, book publisher etc. These lists are stored in `data/missing_fields.txt`.
 
 ### Usage
 
