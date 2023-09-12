@@ -3,7 +3,7 @@ import os
 
 def add_to_database(journal_name, abbreviation):
     # File name
-    database_file = 'new_database.json'
+    database_file = 'journals.json'
     
     # Check if the file exists
     if os.path.exists(database_file):
