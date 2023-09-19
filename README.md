@@ -25,4 +25,4 @@ cat /path/to/old/bib/file | python journal_abbrev.py > /path/to/new/bib/file
 Users can specify their own extra abbreviation rules through customized json file with additional argument to the python script as `--user-json` (refer to `customize_journal.json` for an example). The customized abbreviation rules would override the default one in the case of conflict.
 
 ### Acknowledgement
-This is motivated by Wanzhen He.
+This work is motivated by Wanzhen He.
